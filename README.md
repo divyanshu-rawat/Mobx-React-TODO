@@ -1,5 +1,3 @@
-# Mobx-React-TODO
-
 ### Mobx-React-App 
 
 ##
