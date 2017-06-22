@@ -2,10 +2,6 @@
 
 ##
 
-### A sample TODO application made leveraging react.js and state management library Mobx.
-
-##
-
 [![Join the chat](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg)](https://gitter.im/divyanshu001)
 [![Contact me on Codementor](https://cdn.codementor.io/badges/contact_me_github.svg)](https://www.codementor.io/divyanshurawat?utm_source=github&utm_medium=button&utm_term=divyanshurawat&utm_campaign=github)
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/r46956)
@@ -20,6 +16,7 @@
 
 #### Description 
 * A TODO application.
+* A sample TODO application made leveraging react.js and state management library Mobx.
 
 ##
 
